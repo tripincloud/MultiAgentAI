@@ -1,6 +1,3 @@
-# projet-ia-jeux-2021
-Template pour le projet L3 IA et Jeux, 2021, Sorbonne Univ .
-
 ## Présentation du projet
 
 Dans un problème de *cooperative path-finding*: on dispose d'un ensemble d'agents qui doivent chacun atteindre une destination qui leur est propre. Il s'agit de trouver un ensemble de chemins, sans collision, qui permette à chaque agent d'atteindre sa destination.
